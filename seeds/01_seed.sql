@@ -1,5 +1,4 @@
 -- \i seeds/01_seed.sql
--- INSERT INTO assignment_submissions (id, assignment_id, student_id, submission_date, duration) VALUES (1, 1, 1, '2018-02-12T08:00:00.000Z', 22.5);
 INSERT INTO
   users (id, name, email, password)
 VALUES
